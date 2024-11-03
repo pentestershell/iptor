@@ -11,3 +11,5 @@ Campos adicionales
 El archivo de consenso contiene otros campos interesantes, como la cantidad de ancho de banda disponible de cada nodo, la huella dactilar (fingerprint), etc. Puedes acceder a estos campos desde el descriptor y agregar más detalles en la impresión si te resulta útil.
 
 Este script debería funcionar siempre que el documento de consenso esté disponible y actualizado.
+
+La descarga del documento de consenso de Tor puede ser lenta debido a su tamaño o a la latencia en la conexión con los servidores de Tor.
